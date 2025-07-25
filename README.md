@@ -129,4 +129,8 @@ GOTENBERG_URL=http://localhost:3000
 
 ## Licença
 
-MIT
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+## Versão
+
+Versão estável: **v1.0.0**
